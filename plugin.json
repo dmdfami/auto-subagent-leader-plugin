@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "auto-subagent-leader",
+  "description": "Thin Auto leader: route intent to Fable/Opus/Sol subs, tmp reports, independent review. Use on any non-trivial Cursor Auto or Cloud task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "David Duc Do"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "cloud-agents",
+    "subagents",
+    "auto"
+  ]
+}
